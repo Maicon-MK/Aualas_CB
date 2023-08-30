@@ -2,8 +2,7 @@ Exercícios Básicos de Classes e Encapsulamento:
 #1
 Crie uma classe chamada Person com atributos name e age, e um método display_info que imprime o nome e a idade da pessoa.
 
-#2
-Defina uma classe BankAccount com atributos privados balance e account_number. Crie métodos deposit e withdraw para manipular o saldo.
+
 
 #3
 Desenvolva uma classe Rectangle com atributos width e height. Implemente um método calculate_area para calcular e retornar a área do retângulo.
